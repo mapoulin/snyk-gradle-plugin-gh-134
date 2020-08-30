@@ -1,0 +1,4 @@
+rootProject.name = "snyk-gradle-plugin-gh-134"
+
+include("sub-a")
+include("sub-b")
